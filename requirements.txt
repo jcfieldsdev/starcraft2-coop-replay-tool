@@ -1,0 +1,4 @@
+matplotlib >= 3.2.1
+mpyq >= 0.2.5
+sc2reader >= 1.6.0
+wxPython >= 4.1.0
